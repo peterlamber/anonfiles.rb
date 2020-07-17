@@ -4,7 +4,7 @@ Fear not! just use `anonfiles` instead!
 up & download (for free!) to Anonfiles.com 
 
 first  
-`gem install 'anonfiles'`  
+`gem install anonfiles`  
 then  
 ```ruby
 require 'anonfiles'
